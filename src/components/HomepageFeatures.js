@@ -22,7 +22,7 @@ const CategoryList = [
   },
   {
     link: "/docs/typography",
-    title: "Typography",
+    title: "Typographie",
     Svg: require("../../static/img/categories/typography.svg").default,
     description: (
       <>Les polices que nous utilisons et les meilleures pratiques en matière de texte.</>
@@ -30,7 +30,7 @@ const CategoryList = [
   },
   {
     link: "/docs/icons",
-    title: "Icons",
+    title: "Icones",
     Svg: require("../../static/img/categories/icons.svg").default,
     description: (
       <>Notre jeu d'icônes et les directives concernant l'utilisation de chaque type d'icône.</>
