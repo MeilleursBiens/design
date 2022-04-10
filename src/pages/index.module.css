@@ -1,0 +1,9 @@
+header {
+  padding: 2rem 0;
+}
+
+html[data-theme="light"] header h1 { color: #292929; font-weight: 700; margin-bottom: 5px; }
+html[data-theme="light"] header p { color: #888888; font-weight: 500; max-width: 600px; }
+
+html[data-theme="dark"] header h1 { color: #fff; font-weight: 700; margin-bottom: 5px; }
+html[data-theme="dark"] header p { color: #eee; font-weight: 500; max-width: 600px; }
