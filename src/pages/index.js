@@ -10,7 +10,7 @@ function HomepageHeader() {
         <header>
             <div className="container">
                 <h1>Charte Graphique</h1>
-                <p>Découvrez notre charte graphique.</p>
+                <p>Découvrez notre charte graphique à travers ces catégories.</p>
             </div>
         </header>
     );
@@ -20,8 +20,8 @@ export default function Home() {
     const {siteConfig} = useDocusaurusContext();
     return (
         <Layout
-            title={`Home`}
-            description="Explore our design system that all of our products and services are built with.">
+            title={`Accueil`}
+            description="Découvrez notre charte graphique à travers ces catégories.">
             <HomepageHeader />
             <main>
                 <HomepageFeatures />
