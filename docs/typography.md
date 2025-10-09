@@ -70,10 +70,12 @@ Les polices choisies reflètent la modernité et l'accessibilité de la marque.
 - **Poids** : Semi Bold (600)
 - **Taille** : 22px
 - **Interlignage** : 1.4 / 110%
-- **Couleur** : #000000 ou #FFFFFF pour les textes secondaires
+- **Couleur** : #121212 ou #858585 pour les textes secondaires
 - **Usage** : Pour les paragraphes, les listes et les légendes.
 
 ## Exemples d'utilisation
+
+<img src="/img/illustration/typo_example.png" alt="Exemples d'utilisation de la typographie" style={{width: '100%', objectFit: 'cover', borderRadius: 8, margin: '8px 0'}} />
 
 ### Exemple 1 : Page d'accueil
 
