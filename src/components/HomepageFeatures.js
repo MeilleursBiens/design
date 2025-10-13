@@ -45,6 +45,14 @@ const CategoryList = [
             <>Notre jeu d'icônes et les directives concernant l'utilisation de chaque type d'icône.</>
         ),
     },
+    {
+        link: "/docs/social-networks",
+        title: "Réseaux Sociaux",
+        Svg: require("../../static/img/categories/social.svg").default,
+        description: (
+            <>Toutes les ressources pour les réseaux sociaux.</>
+        ),
+    },
 ];
 
 function Category({Svg, title, description, link}) {

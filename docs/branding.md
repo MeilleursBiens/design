@@ -182,9 +182,3 @@ Toujours **centrer** l’icône, **arrondis cohérents** (12–20 %). Éviter le
 <img src="/img/illustration/logomark-action.png" alt="Personas MeilleursBiens" style={{width: "100%", marginTop: 16, marginBottom: 16}} />
 </div>
 
-
-
-
-
-
-
