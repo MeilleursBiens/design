@@ -182,3 +182,6 @@ Toujours **centrer** l’icône, **arrondis cohérents** (12–20 %). Éviter le
 <img src="/img/illustration/logomark-action.png" alt="Personas MeilleursBiens" style={{width: "100%", marginTop: 16, marginBottom: 16}} />
 </div>
 
+## Réseaux sociaux
+
+Les assets dédiés aux plateformes sociales (avatars ronds et carrés, bannières, gabarits) sont désormais centralisés ici : [Réseaux sociaux](./social-networks).
